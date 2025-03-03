@@ -1,0 +1,3 @@
+Gun Icons Width 512
+Items Width 256
+Maintain Aspect Ratio
